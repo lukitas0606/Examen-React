@@ -1,0 +1,14 @@
+body{
+  display: block !important;
+  background-color: rgb(227, 222, 222);
+}
+h1{
+  margin-bottom: 40px;
+  text-align: center;
+}
+.rbc-event{
+  background-color: red;
+}
+.rbc-day-bg{
+background-color: rgb(197, 177, 197);
+}
